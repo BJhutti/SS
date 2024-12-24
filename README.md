@@ -1,2 +1,2 @@
 # SS
-SS website
+Small website for secret santa
